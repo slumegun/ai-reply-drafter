@@ -1,0 +1,14 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+*.session
+*.session-journal
+*.bd
+*.db
+my_model1/
+output/
+unsloth_compiled_cache/
+dataset.jsonl
