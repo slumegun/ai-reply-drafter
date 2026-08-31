@@ -1,0 +1,5 @@
+pyrogram==2.0.106
+dotenv
+unsloth==2026.8.21
+torch==2.10.0+cu130
+tgcrypto
